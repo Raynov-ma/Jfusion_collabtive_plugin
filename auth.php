@@ -1,5 +1,10 @@
 <?php
-
+/**
+* @package JFusion_collabtive
+* @author Mohammed Serbouti <serboutim@raynov.ma>
+* @url www.raynov.ma
+* @license http://www.gnu.org/copyleft/gpl.html GNU/GPL
+*/
 
 // no direct access
 defined('_JEXEC' ) or die('Restricted access' );

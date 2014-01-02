@@ -2,8 +2,8 @@
 
 /**
 * @package JFusion_collabtive
-* @author Mohammed Serbouti
-* @copyright Copyright (C) 2008 JFusion. All rights reserved.
+* @author Mohammed Serbouti <serboutim@raynov.ma>
+* @url www.raynov.ma
 * @license http://www.gnu.org/copyleft/gpl.html GNU/GPL
 */
 

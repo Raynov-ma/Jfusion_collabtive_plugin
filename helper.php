@@ -1,17 +1,13 @@
 <?php
 // no direct access
 defined('_JEXEC') or die('Restricted access');
+
 /**
- * JFusionHelper_collabtive class
- *
- * @category   JFusion
- * @package    Model
- * @subpackage JFusionHelper_collabtive
- * @author     Mohammed Serbouti <serboutim@raynov.ma>
- * @copyright  2013 JFusion. All rights reserved.
- * @license    http://www.gnu.org/copyleft/gpl.html GNU/GPL
- * @link       http://www.jfusion.org
- */
+* @package JFusion_collabtive
+* @author Mohammed Serbouti <serboutim@raynov.ma>
+* @url www.raynov.ma
+* @license http://www.gnu.org/copyleft/gpl.html GNU/GPL
+*/
 class JFusionHelper_collabtive
 {
     var $joomlaSessionName = '';
